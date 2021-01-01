@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+header {
+  padding: 20px;
+  background-color: salmon;
+}
+h1 {
+  text-align: center;
+  color: aquamarine;
+}
+h2 {
+  color: blue;
+}
